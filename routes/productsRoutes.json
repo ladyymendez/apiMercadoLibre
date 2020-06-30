@@ -1,0 +1,8 @@
+{
+  "/products/cellphone": {
+    "GET": "getByCategory"
+  },
+  "/products/cellphone/sort": {
+    "GET": "getSort"
+  }
+}
